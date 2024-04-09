@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanyaam-MLWritesonic&label=Profile%20views&color=0e75b6&style=flat" alt="Sanyaam-MLWritesonic" /> </p>
 
-- 🔭 I’m currently working on **as ML intern at Writesonic**
+- 🔭 I’m currently working **as ML intern at Writesonic**
 
 - 🌱 I’m currently learning **Reinforcement Learning, Implementation of Research papers**
 
