@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning, navigating Research papers**
 
-- 👯 I’m looking to collaborate with **various Writesonic teams**
+- 👯 I’m looking to collaborate with **various Writesonic teams and enhance user experience**
 
 - 💬 Ask me about **Research, LLMs, Opensource models, Multimodality**
 
-- 📫 How to reach me **sanyam.jain@writesonic.com**
+- 📫 How to reach me **sanyam0605@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
